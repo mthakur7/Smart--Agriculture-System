@@ -9,7 +9,4 @@ Python package Stack: scikit-learn, pandas.
 Web development technologies: HTML, CSS, JavaScript.
 All the necessary datasets are included in the repository itself.
 
-Project Walkthrough: https://www.youtube.com/watch?v=7zR-3olbr9E&t=186s
 
-Contributors,
-Omkar Buchade, Nilesh Mehta, Shubham Ghodekar.
